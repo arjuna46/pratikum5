@@ -64,3 +64,8 @@
   Program ini memanfaatkan dictionary untuk menyimpan data mahasiswa dan PrettyTable untuk menyajikan data dalam bentuk tabel yang terstruktur. Jadi, pengguna dapat menambah, mengubah, dan menampilkan data mahasiswa dengan lebih mudah dan terorganisir.
   ## OUTPUT
   ![WhatsApp Image 2023-11-22 at 18 20 29](https://github.com/arjuna46/pratikum5/assets/147571007/cdfbebf4-540f-470a-831b-4cd6d295e1c2)
+
+
+## FLOWCHAT
+![Screenshot (61)](https://github.com/arjuna46/pratikum5/assets/147571007/d0c78e50-486d-49f2-b69a-95f8b7a2b522)
+
